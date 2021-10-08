@@ -11,4 +11,7 @@ export default {
   stock: {
     type: 'integer',
   },
+  todaySales: {
+    type: 'integer',
+  },
 }
